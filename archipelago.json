@@ -1,0 +1,10 @@
+{
+    "game": "Geometry Dash",
+    "authors": [
+        "1257Plays",
+        "ericg",
+        "Jelly Moose"
+    ],
+    "minimum_ap_version": "0.6.7",
+    "world_version": "0.0.1"
+}              
